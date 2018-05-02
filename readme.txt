@@ -1,3 +1,8 @@
-Git is a version control system.
+Git is a distributed version control system.
 Git is free software.
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick AND simple.
+=======
+Git has a mutable index called stage.
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
